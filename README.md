@@ -43,7 +43,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="jucaskr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="69" height="51" alt="discord logo"  />
   </a>
