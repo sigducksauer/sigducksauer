@@ -55,6 +55,8 @@
   </a>
 </div>
 
+<hr style="border: 1px solid #444; width: 80%; margin: auto;" />
+
 ###
 
 <br clear="both">
