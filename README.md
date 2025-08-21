@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&"  />
+<img align="right" height="250" src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&"  />
 
 ###
