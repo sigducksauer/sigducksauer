@@ -39,22 +39,27 @@
 
 ###
 
-<img align="right" height="204" src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&"  />
+<table>
+  <tr>
+    <!-- Coluna dos ícones -->
+    <td align="center" valign="middle">
+      <a href="jucaskr" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="69" height="51" alt="discord logo" />
+      </a>
+      <a href="Xr36V40q2Z@proton.me" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="69" height="51" alt="gmail logo" />
+      </a>
+      <a href="https://guns.lol/jucaskr" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="69" height="51" alt="linktree logo" />
+      </a>
+    </td>
 
-###
-
-<div align="right">
-  <a href="jucaskr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="69" height="51" alt="discord logo"  />
-  </a>
-  <a href="Xr36V40q2Z@proton.me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="69" height="51" alt="gmail logo"  />
-  </a>
-  <a href="https://guns.lol/jucaskr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="69" height="51" alt="linktree logo"  />
-  </a>
-</div>
-
+    <!-- Coluna da imagem -->
+    <td align="center" valign="middle">
+      <img src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&" height="204" />
+    </td>
+  </tr>
+</table>
 ###
 
 <br clear="both">
