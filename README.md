@@ -6,6 +6,8 @@
 
 ###
 
+<hr style="border: 1px solid #444; width: 80%; margin: auto;" />
+
 <h3 align="left">🚀 Tech Stack</h3>
 
 ###
@@ -23,6 +25,7 @@
 </div>
 
 ###
+<hr style="border: 1px solid #444; width: 80%; margin: auto;" />
 
 <h3 align="left">📊 GitHub Stats</h3>
 
@@ -34,6 +37,7 @@
 </div>
 
 ###
+<hr style="border: 1px solid #444; width: 80%; margin: auto;" />
 
 <h3 align="left">🌐 Redes</h3>
 
