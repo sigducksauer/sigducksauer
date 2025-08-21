@@ -39,21 +39,15 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&"  />
-
-###
-
 <div align="center">
   <a href="jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="64" height="50" alt="discord logo"  />
   </a>
   <a href="Xr36V40q2Z@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="50" alt="gmail logo"  />
   </a>
   <a href="https://guns.lol/jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="linktree logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="64" height="50" alt="linktree logo"  />
   </a>
 </div>
 
@@ -66,5 +60,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigducksauer/sigducksauer/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sigducksauer/sigducksauer/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&"  />
 
 ###
