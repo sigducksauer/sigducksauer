@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou um desenvolvedor apaixonado por **tecnologia e programação.**<br><br>• 🤔 **Explorando novas tecnologias**   <br>• 🎓 **Estudando Ciências da computação!**</p>
+<p align="center">Sou um desenvolvedor apaixonado por <b>tecnologia e programação.<b><br><br>• 🤔 <b>Explorando novas tecnologias<b>   <br>• 🎓 <b>Estudando Ciências da computação!<b></p>
 
 ###
 <hr style="border: 1px solid #444; width: 80%; margin: auto;" />
