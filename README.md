@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="45" alt="gmail logo"  />
   </a>
   <a href="https://guns.lol/jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Links&logo=linktree&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="250" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Links&logo=linktree&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="45" alt="linktree logo"  />
   </a>
 </div>
 
