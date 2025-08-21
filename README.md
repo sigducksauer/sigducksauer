@@ -29,8 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigducksauer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sigducksauer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="154" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sigducksauer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sigducksauer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="154" alt="languages graph"  />
 </div>
 
 ###
@@ -39,11 +39,11 @@
 
 ###
 
-<img align="right" height="205" src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&"  />
+<img align="right" height="204" src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&"  />
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="jucaskr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="69" height="51" alt="discord logo"  />
   </a>
