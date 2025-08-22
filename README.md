@@ -8,10 +8,9 @@
 
 ###
 
-<p align="center">Sou um desenvolvedor apaixonado por <b>tecnologia e programação.<b><br><br>• 🤔 <b>Explorando novas tecnologias<b> <br>• 🎓 <b>Estudando Ciências da computação!<b></p>
+<p align="center">Sou um desenvolvedor apaixonado por tecnologia e programação.<br><br>• 🤔 Explorando novas tecnologias   <br>• 🎓 Estudando Ciências da computação!</p>
 
 ###
-<hr style="border: 1px solid #444; width: 80%; margin: auto;" />
 
 <br clear="both">
 
@@ -46,24 +45,30 @@
 ###
 <hr style="border: 1px solid #444; width: 80%; margin: auto;" />
 
+<br clear="both">
+
+<h3 align="left">🌐 Redes</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <a href="jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="42" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="48" alt="discord logo"  />
   </a>
   <a href="Xr36V40q2Z@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="42" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="48" alt="gmail logo"  />
   </a>
   <a href="https://guns.lol/jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Links&logo=linktree&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="42" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Links&logo=linktree&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="48" alt="linktree logo"  />
   </a>
 </div>
 
 ###
 <hr style="border: 1px solid #444; width: 80%; margin: auto;" />
 
-<h3 align="left">🌐 Redes</h3>
-
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigducksauer/sigducksauer/output/pacman-contribution-graph-dark.svg">
