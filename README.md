@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Sou um desenvolvedor apaixonado por <b>tecnologia e programação.<b><br><br>• 🤔 <b>Explorando novas tecnologias<b>   <br>• 🎓 <b>Estudando Ciências da computação!<b></h4>
+<p align="center">Sou um desenvolvedor apaixonado por <b>tecnologia e programação.<b><br><br>• 🤔 <b>Explorando novas tecnologias<b>   <br>• 🎓 <b>Estudando Ciências da computação!<b></p>
 
 ###
 <hr>
