@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Sou um desenvolvedor apaixonado por tecnologia e programação.<br><br>• 🤔 Explorando novas tecnologias   <br>• 🎓 Estudando Ciências da computação!</p>
+<p align="center">Sou um desenvolvedor apaixonado por <b>tecnologia e programação.<b><br><br>• 🤔 <b>Explorando novas tecnologias<b>   <br>• 🎓 <b>Estudando Ciências da computação!<b></p>
 
 ###
 
@@ -55,13 +55,13 @@
 
 <div align="center">
   <a href="jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="48" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
   <a href="Xr36V40q2Z@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="48" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
   <a href="https://guns.lol/jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Links&logo=linktree&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="48" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Links&logo=linktree&label=&color=6d82cb&logoColor=white&labelColor=&style=flat" height="25" alt="linktree logo"  />
   </a>
 </div>
 
