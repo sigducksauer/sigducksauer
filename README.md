@@ -9,9 +9,9 @@
 ###
 
 <p align="center">Sou um desenvolvedor apaixonado por <b>tecnologia e programação.<b><br><br>• 🤔 <b>Explorando novas tecnologias<b>   <br>• 🎓 <b>Estudando Ciências da computação!<b></p>
-<br clear="both">
-###
 
+###
+<hr>
 <br clear="both">
 
 <h3 align="left">🚀 Tech Stack</h3>
