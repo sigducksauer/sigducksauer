@@ -1,74 +1,117 @@
-<h1 align="center">👋 Olá, eu sou o Juca!</h1>
-
-###
-
-<br clear="both">
-
-<img align="right" height="140" src="https://cdn.discordapp.com/attachments/988584025637654568/1408139759926382694/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?ex=68a8a7d8&is=68a75658&hm=1c555add6bbc6e5278fd9d46366b7d2826c49eb789bf378bba0d21b9166fa559&"  />
-
-###
-
-<p align="center">Sou um desenvolvedor apaixonado por <b>tecnologia e programação.<b><br><br>• 🤔 <b>Explorando novas tecnologias<b>   <br>• 🎓 <b>Estudando Ciências da computação!<b></p>
-
-###
-<hr>
-<br clear="both">
-
-<h3 align="left">🚀 Tech Stack</h3>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="56" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="56" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="56" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="56" alt="salesforce logo"  />
+
+```
+██╗██╗   ██╗ ██████╗ █████╗ ███████╗██╗  ██╗██████╗
+     ██║██║   ██║██╔════╝██╔══██╗██╔════╝██║ ██╔╝██╔══██╗
+     ██║██║   ██║██║     ███████║███████╗█████╔╝ ██████╔╝
+██   ██║██║   ██║██║     ██╔══██║╚════██║██╔═██╗ ██╔══██╗
+╚█████╔╝╚██████╔╝╚██████╗██║  ██║███████║██║  ██╗██║  ██║
+ ╚════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
 </div>
 
-###
-<hr style="border: 1px solid #444; width: 80%; margin: auto;" />
+<h1 align="center">Olá, eu sou o Juca! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-###
+<p align="center">
+  <a href="https://github.com/sigducksauer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D82CB&center=true&vCenter=true&width=500&lines=Dev+Fullstack+%F0%9F%9A%80;Discord+Bot+Developer+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigducksauer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sigducksauer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://komarev.com/ghpvc/?username=sigducksauer&style=for-the-badge&color=6d82cb&label=VISITAS+AO+PERFIL" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/sigducksauer?style=for-the-badge&color=6d82cb&label=SEGUIDORES" alt="followers"/>
 </div>
 
-###
-<hr style="border: 1px solid #444; width: 80%; margin: auto;" />
+---
 
-<br clear="both">
+## 🧑‍💻 Sobre mim
 
-<h3 align="left">🌐 Redes</h3>
+```python
+class Juca:
+    def __init__(self):
+        self.nome        = "Juca (sigducksauer)"
+        self.localidade  = "Brasil 🇧🇷"
+        self.papel       = ["Dev Fullstack", "Bot Developer", "Open Source"]
+        self.educação    = "Ciências da Computação 🎓"
+        self.foco_atual  = ["Bots para Discord", "APIs REST", "Automações"]
+        self.interesses  = ["Back-end", "DevOps", "IA aplicada"]
 
-###
+    def diga_oi(self):
+        return "Obrigado pela visita! Vamos construir algo incrível juntos 🚀"
 
-<br clear="both">
+eu = Juca()
+print(eu.diga_oi())
+```
+
+- 🤔 Sempre explorando **novas tecnologias**
+- 🎓 Cursando **Ciências da Computação**
+- 🤖 Especialista em **Bots para Discord**
+- 🌱 Atualmente aprofundando em **Python, APIs e automação**
+- 💬 Pergunte-me sobre **Discord.js, Python, Flask e Salesforce**
+- ⚡ Fun fact: _Meu código funciona na primeira tentativa... às vezes_ 😄
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Linguagens
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+### 🛠️ Frameworks & Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+</div>
+
+### ⚙️ DevOps & Infra
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6d82cb&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="discord logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sigducksauer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sigducksauer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigducksauer&theme=discord-old-blurple&hide_border=false&locale=pt_BR" height="150" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sigducksauer&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophy"/>
+</div>
+
+---
+
+## 🤖 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/sigducksauer/decoracoes-discord">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sigducksauer&repo=decoracoes-discord&theme=discord_old_blurple&hide_border=false" alt="decoracoes-discord"/>
   </a>
-  <a href="Xr36V40q2Z@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=6d82cb&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="gmail logo"  />
-  </a>
-  <a href="https://guns.lol/jucaskr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Links&logo=linktree&label=&color=6d82cb&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="linktree logo"  />
+  <a href="https://github.com/sigducksauer/sigducksauer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sigducksauer&repo=sigducksauer&theme=discord_old_blurple&hide_border=false" alt="sigducksauer"/>
   </a>
 </div>
 
-###
-<hr style="border: 1px solid #444; width: 80%; margin: auto;" />
+---
 
-<br clear="both">
+## 📈 Atividade de Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigducksauer/sigducksauer/output/pacman-contribution-graph-dark.svg">
@@ -76,4 +119,28 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sigducksauer/sigducksauer/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+  <a href="https://discord.com/users/jucaskr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6d82cb&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord"/>
+  </a>
+  <a href="mailto:Xr36V40q2Z@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ProtonMail&logo=protonmail&label=&color=6d82cb&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="email"/>
+  </a>
+  <a href="https://guns.lol/jucaskr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Links&logo=linktree&label=&color=6d82cb&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="links"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d82cb&height=100&section=footer"/>
+</div>
+
+<p align="center">
+  <i>⭐ Se algum projeto te ajudou, deixa uma estrela! Isso me motiva muito 😄</i>
+</p>
