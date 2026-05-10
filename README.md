@@ -101,7 +101,7 @@ print(eu.diga_oi())
 | [👤 sigducksauer](https://github.com/sigducksauer/sigducksauer) | — | Public |
 
 </div>
----
+
 
 ## 📈 Atividade de Contribuições
 
