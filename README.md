@@ -84,8 +84,9 @@ print(eu.diga_oi())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigducksauer&show_icons=true&theme=discord_old_blurple&locale=pt-br&count_private=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sigducksauer&layout=compact&theme=discord_old_blurple&locale=pt-br" height="150" alt="languages graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigducksauer&theme=discord_old_blurple" width="100%" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigducksauer&theme=discord_old_blurple" width="49%" alt="langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigducksauer&theme=discord_old_blurple" width="49%" alt="stats2"/>
 </div>
 
 ---
@@ -93,11 +94,13 @@ print(eu.diga_oi())
 ## 🤖 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/sigducksauer/decoracoes-discord">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sigducksauer&repo=decoracoes-discord&theme=discord_old_blurple" />
-  </a>
-</div>
 
+| Repositório | Linguagem | Visibilidade |
+|---|---|---|
+| [🎨 decoracoes-discord](https://github.com/sigducksauer/decoracoes-discord) | JavaScript | Public |
+| [👤 sigducksauer](https://github.com/sigducksauer/sigducksauer) | — | Public |
+
+</div>
 ---
 
 ## 📈 Atividade de Contribuições
