@@ -84,16 +84,8 @@ print(eu.diga_oi())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigducksauer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sigducksauer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigducksauer&theme=discord-old-blurple&hide_border=false&locale=pt_BR" height="150" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sigducksauer&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophy"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sigducksauer&show_icons=true&theme=discord_old_blurple&locale=pt-br&count_private=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sigducksauer&layout=compact&theme=discord_old_blurple&locale=pt-br" height="150" alt="languages graph"/>
 </div>
 
 ---
@@ -102,10 +94,7 @@ print(eu.diga_oi())
 
 <div align="center">
   <a href="https://github.com/sigducksauer/decoracoes-discord">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sigducksauer&repo=decoracoes-discord&theme=discord_old_blurple&hide_border=false" alt="decoracoes-discord"/>
-  </a>
-  <a href="https://github.com/sigducksauer/sigducksauer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sigducksauer&repo=sigducksauer&theme=discord_old_blurple&hide_border=false" alt="sigducksauer"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sigducksauer&repo=decoracoes-discord&theme=discord_old_blurple" />
   </a>
 </div>
 
